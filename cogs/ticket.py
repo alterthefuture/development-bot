@@ -5,9 +5,9 @@ import datetime
 import asyncio
 
 # Connecting to database
-cluster = MongoClient("mongodb+srv://lxyOT:luxalmao2021!@alterdev.xqt1i.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
-db = cluster["alter"]
-collection = db["server"]
+cluster = MongoClient("mongo-link")
+db = cluster["your-cluster"]
+collection = db["your-collection"]
 
 # Creating commands
 class ticket(commands.Cog):
