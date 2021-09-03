@@ -1,4 +1,4 @@
 # development-bot
 made by - ritz#8888  
 
-One of the last discord.py bot I will be making since the lib is shutting down. I will be switching to javascript or golang.
+A Simple bot made for a development server, helps with verification, tickets and more!
